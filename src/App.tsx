@@ -129,12 +129,9 @@ function App() {
                 <div className="space-y-4">
                   <div className="flex justify-between items-center">
                     <span className="text-blue-100">Experience</span>
-                    <span className="font-semibold">2+ Years</span>
+                    <span className="font-semibold">1+ Years</span>
                   </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-blue-100">Projects</span>
-                    <span className="font-semibold">5+ Completed</span>
-                  </div>
+                  
                   <div className="flex justify-between items-center">
                     <span className="text-blue-100">Specialization</span>
                     <span className="font-semibold">AI/ML & GIS</span>
